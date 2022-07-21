@@ -1,0 +1,17 @@
+.ipynb_checkpoints/
+.idea/
+__pycache__/
+pretrained_agents/
+wandb/
+koreeye-2022/
+data/
+meta-kaggle/
+antlr4/
+omegaconf/
+
+tmp.jl
+trajectory.jl
+trajectory_env.jl
+state_dicts_queue.jl
+error.jl
+game.log
